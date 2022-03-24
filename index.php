@@ -9,9 +9,21 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="back"></div>
-    <div class="container-fluid">
-        
+    <div id="back">
+        <div id="toolbar" class="container">
+            <div class="row contact">
+                <div class=" col-xl-8 col-0"></div>
+                <div id="con" class="col-sm-12 col-xl-4 col-12">Contact: 700 700 700 or placeholder@gmail.com</div>
+            </div>
+            <div class="row">
+                <div class="col-4 col-sm-3 col-xl-2">
+                    <img src="images/logo.png" class="logo" alt="">
+                </div>
+                <div class="col-5 col-sm-6 search_bar">
+                    <input type="text" class="search" placeholder="Look up what you want">
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 
