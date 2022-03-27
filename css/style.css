@@ -37,3 +37,41 @@
 {
     outline: none;
 }
+.search_bar.bigger_screen
+{
+    display: inline-block;
+}
+.search_bar.smaller_screen
+{
+    display: none;
+}
+.login
+{
+    line-height: 15vh;
+    text-align: right;
+}
+.checkout
+{
+    line-height: 15vh;
+    text-align: right;
+}
+
+@media (max-width: 992px)
+{
+    .search_bar.bigger_screen
+    {
+        display: none;
+    }
+    .search_bar.smaller_screen
+    {
+        display: inline-block;
+    }
+}
+
+@media (max-width: 575px) {
+    .menu_item
+    {
+        display: none;
+    }
+    
+}
