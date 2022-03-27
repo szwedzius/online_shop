@@ -38,9 +38,40 @@
                     </svg>
                     <span class="menu_item">Checkout</span>
                 </div>
+            </div>
+            <div class="row">
                 <div class="offset-1 col-10 of search_bar smaller_screen">
                     <input type="text" class="search" placeholder="Look up what you want">
                 </div>
+            </div>
+            <div class="row beers">
+                <div class="type-tab col-lg-4 col-md-6" >
+                    <span class="text-tab">Black Beer</span>
+                    <img src="images/beer_1.png" class="img-tab" alt="">
+                </div>
+                <div class="type-tab col-lg-4 col-md-6" >
+                    <span class="text-tab">Classic Lager</span>
+                    <img src="images/beer_1.png" class="img-tab" alt="">
+                </div>
+                <div class="type-tab col-lg-4 col-md-6">
+                    <span class="text-tab">Wheat Beer</span>
+                    <img src="images/beer_1.png" class="img-tab" alt="">
+                </div>
+                <div class="type-tab offset-lg-2 col-lg-4 col-md-6" >
+                    <span class="text-tab">Pilzner Beer</span>
+                    <img src="images/beer_1.png" class="img-tab" alt="">
+                </div>
+                <div class="type-tab col-lg-4 offset-md-3 offset-lg-0 col-md-6" >
+                    <span class="text-tab">Fruit Beer</span>
+                    <img src="images/beer_1.png" class="img-tab" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                    <div class="footer">
+                        All rights reserved to SZWEDACORP SP.Z.O.O 
+                    </div>
             </div>
         </div>
     </div>
